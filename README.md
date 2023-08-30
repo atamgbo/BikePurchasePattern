@@ -3,7 +3,7 @@
 # Introduction
 This project focuses on analyzing the sales of a bike company. It is aimed at deciphering the underlying trends and influences that contribute to their sales success. The dataset comprised customer information, including age, commute preferences, income, number of vehicles owned, and gender.
 
-# Introduction
+# Analysis
 1) Purchase by Age Group:
 Upon analyzing the data, a significant trend emerged regarding bike purchases based on age groups. The data indicated that the majority of purchases were made by middle-aged individuals, suggesting a preference for biking among this demographic. In contrast, the number of purchases by older individuals and youths was notably lower. This trend implies that middle-aged individuals might find biking particularly appealing, whether for exercise, recreation, or daily transportation.
 
