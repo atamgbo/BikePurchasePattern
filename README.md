@@ -23,6 +23,6 @@ In conclusion, this analysis provides a comprehensive understanding of the facto
 Based on these findings, I recommend that the company invests in targeted marketing campaigns aimed at middle-aged individuals, explores initiatives to promote biking for shorter commutes, and develops strategies to engage high-income individuals, female customers, youths, and elderly csutomers effectively. These measures can help the company capitalize on the identified trends and further solidify its position in the bike industry.
 
 # Dashboard
-![View interactive dashboard](https://github.com/atamgbo/EnergyProductionAndCO2EmissionsAnalysis/blob/main/EPCO2-21.png)
+![dashboard](https://github.com/atamgbo/BikePurchasePattern/blob/main/Screenshot%202023-08-23%20at%209.51.19%20PM.png)
 
 [View interactive dashboard](https://onedrive.live.com/view.aspx?resid=9CFBF646C73A23BB!144&ithint=file%2cxlsx&wdo=2&authkey=!ANwHlUrRmidSDTU)
