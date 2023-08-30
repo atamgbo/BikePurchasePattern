@@ -1,4 +1,4 @@
-# Understanding Bike Purchase Patterns
+# Understanding Bike Purchase Patterns for Sales Improvement
 
 # Introduction
 This project focuses on analyzing the sales of a bike company. It is aimed at deciphering the underlying trends and influences that contribute to their sales success. The dataset comprised customer information, including age, commute preferences, income, number of vehicles owned, and gender.
