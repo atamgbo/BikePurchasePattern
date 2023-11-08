@@ -1,6 +1,6 @@
 # Customer Analysis for Marketing and Sales Improvement
 
-$ Introduction:
+# Introduction:
 This report focuses on the analysis of bike sales, aiming to understand the key factors driving success. The dataset includes customer information such as age, commute preferences, income, number of vehicles owned, and gender.
 
 # Key Findings:
